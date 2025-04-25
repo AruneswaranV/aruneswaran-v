@@ -10,7 +10,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="/assets/css.png" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="/assets/js.png" alt="js" width="40" height="40"/></a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="/assets/wordpress.png" alt="wordpress" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="/assets/Tailwind.png" alt="wordpress" width="140" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="/assets/Tailwind.png" alt="wordpress" width="150" height="40"/></a>
 </div>
 
 <h3 align="left">🎨 Designing Tools:</h3>
